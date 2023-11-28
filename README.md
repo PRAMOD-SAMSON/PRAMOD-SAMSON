@@ -6,6 +6,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=PRAMOD-SAMSON&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=PRAMOD-SAMSON&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **PRAMOD-SAMSON/PRAMOD-SAMSON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
