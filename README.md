@@ -1,8 +1,10 @@
 ### Hi there 👋
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PRAMOD-SAMSON&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOD-SAMSON&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> -->
+<!--![](https://github-readme-stats.vercel.app/api?username=PRAMOD-SAMSON&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOD-SAMSON&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMOD-SAMSON)
+![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=PRAMOD-SAMSON&bg_color=0d1117&color=00FF00&line=32CD32&point=006400&area=true&hide_border=true&hide_title=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PRAMOD-SAMSON&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
