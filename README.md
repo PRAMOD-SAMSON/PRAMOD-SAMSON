@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PRAMOD-SAMSON&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOD-SAMSON&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOD-SAMSON&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMOD-SAMSON)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PRAMOD-SAMSON&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
