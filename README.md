@@ -6,7 +6,7 @@
 ![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=PRAMOD-SAMSON&bg_color=0d1117&color=00FF00&line=32CD32&point=006400&area=true&hide_border=true&hide_title=true)
 
 
-### ✍️ Random Dev Quote
+### 🚀 Inspiring Dev Quote of the Day 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=PRAMOD-SAMSON&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
